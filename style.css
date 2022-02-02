@@ -1,0 +1,67 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.MC {
+  color: #00bbf0;
+}
+
+.bgg {
+  background-color: #d5f2fc;
+}
+.img-border {
+  border-radius: 50px;
+}
+.section-2 {
+  color: #ffffff;
+}
+.icon {
+  font-size: 30px;
+}
+.instagram {
+  color: #f19096;
+}
+.youtube {
+  color: red;
+}
+.circle {
+  border: 3px solid #00bbf0;
+}
+.white {
+  color: #effbff;
+}
+.bgg2 {
+  background-color: #2f798d;
+}
+.bgg3 {
+  background-color: #84bbca;
+}
+.card-name {
+  font-size: larger;
+  font-weight: 500;
+  font-family: cursive;
+  margin: 1rem;
+}
+.large {
+  font-size: 100px;
+}
+.tiny {
+  font-size: 12px;
+}
+.tiniest {
+  font-size: 10px;
+}
+.hi {
+  color: #2f798d;
+}
+.remove {
+  display: none;
+}
+#hover {
+  transition: all 0.5s ease-out;
+}
+#hover:hover {
+  transform: scale(1.05);
+}
